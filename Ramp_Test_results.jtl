@@ -1,0 +1,821 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1606147752917,533,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,27605,575,1,1,null,0,54,110
+1606147752964,533,/web/-2,200,OK,RAMP TEST 1-1,text,true,,27605,575,1,1,https://ie.rs-online.com/web/,513,0,110
+1606147753542,472,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,41993,1998,1,1,null,0,2727,0
+1606147756264,472,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-1,text,true,,41993,1998,1,1,https://ie.rs-online.com/web/c/batteries-chargers/,468,0,0
+1606147756743,496,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,45087,2048,1,1,null,0,2846,0
+1606147759587,496,/web/c/batteries-chargers/battery-chargers-power-banks/-14,200,OK,RAMP TEST 1-1,text,true,,45087,2048,1,1,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,490,0,0
+1606147760085,538,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,39117,4052,1,1,null,0,5823,0
+1606147762919,345,/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/-18,200,OK,RAMP TEST 1-1,text,true,,31492,2094,1,1,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,343,0,0
+1606147766250,193,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,7625,1958,1,1,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-chargers-power-banks%2Fbattery-chargers&searchConfig=0,189,0,0
+1606147766446,487,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,30482,2287,1,1,null,0,3145,0
+1606147769590,487,/web/p/battery-chargers/0549316/-23,200,OK,RAMP TEST 1-1,text,true,,30482,2287,1,1,https://ie.rs-online.com/web/p/battery-chargers/0549316/,482,0,0
+1606147770079,368,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,2059,2130,1,1,null,0,2849,0
+1606147772928,368,/web/services/shoppingBasket/lineItems/549-316/1-28,200,OK,RAMP TEST 1-1,text,true,,2059,2130,1,1,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/549-316/1,368,0,0
+1606147773297,763,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,40026,4633,1,1,null,0,5577,0
+1606147776250,715,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,39008,2255,1,1,https://ie.rs-online.com/web/ca/basketsummary/,709,0,0
+1606147779589,48,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1018,2378,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,48,0,0
+1606147779638,190,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26525,2196,1,1,null,0,3288,51
+1606147782924,190,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26525,2196,1,1,https://ie.rs-online.com/web/,181,0,51
+1606147783116,508,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,44358,2261,1,1,null,0,3135,0
+1606147786251,508,/web/c/cables-wires/-8,200,OK,RAMP TEST 1-1,text,true,,44358,2261,1,1,https://ie.rs-online.com/web/c/cables-wires/,503,0,0
+1606147786760,542,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,43836,2308,1,1,null,0,2835,0
+1606147789593,542,/web/c/cables-wires/computer-cable-assemblies/-14,200,OK,RAMP TEST 1-1,text,true,,43836,2308,1,1,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,533,0,0
+1606147790138,701,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,32610,4602,1,1,null,0,5554,0
+1606147792919,557,/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/-18,200,OK,RAMP TEST 1-1,text,true,,30446,2369,1,1,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,555,0,0
+1606147796248,144,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,2164,2233,1,1,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=cables-wires%2Fcomputer-cable-assemblies%2Fcomputer-power-cable-assemblies&searchConfig=0,144,0,0
+1606147796394,2029,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,31558,2358,1,1,null,0,3198,0
+1606147799590,2029,/web/p/computer-power-cable-assemblies/1640975/-23,200,OK,RAMP TEST 1-1,text,true,,31558,2358,1,1,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/1640975/,2023,0,0
+1606147801621,301,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,1803,2187,1,1,null,0,1298,0
+1606147802918,301,/web/services/shoppingBasket/lineItems/164-0975/1-28,200,OK,RAMP TEST 1-1,text,true,,1803,2187,1,1,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/164-0975/1,301,0,0
+1606147803220,455,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,40529,4670,1,1,null,0,5963,0
+1606147806259,406,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,39511,2292,1,1,https://ie.rs-online.com/web/ca/basketsummary/,400,0,0
+1606147809589,49,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1018,2378,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,49,0,0
+1606147809639,188,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26524,2196,1,1,null,0,3279,62
+1606147812917,188,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26524,2196,1,1,https://ie.rs-online.com/web/,187,0,62
+1606147813106,555,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,47009,2272,1,1,null,0,3150,0
+1606147816255,555,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,47009,2272,1,1,https://ie.rs-online.com/web/c/automation-control-gear/,549,0,0
+1606147816812,443,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,42255,2309,1,1,null,0,2773,0
+1606147819583,443,/web/c/automation-control-gear/electric-motors/-14,200,OK,RAMP TEST 1-1,text,true,,42255,2309,1,1,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/,416,0,0
+1606147820042,1869,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,42287,4560,1,1,null,0,5672,0
+1606147822916,542,/web/c/automation-control-gear/electric-motors/ac-motors/-18,200,OK,RAMP TEST 1-1,text,true,,29920,2348,1,1,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/ac-motors/,539,0,0
+1606147826256,1327,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,12367,2212,1,1,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Felectric-motors%2Fac-motors&searchConfig=0,1325,0,0
+1606147827584,383,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29866,2336,1,1,null,0,1999,0
+1606147829582,383,/web/p/ac-motors/9180782/-23,200,OK,RAMP TEST 1-1,text,true,,29866,2336,1,1,https://ie.rs-online.com/web/p/ac-motors/9180782/,382,0,0
+1606147829967,245,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,1803,2187,1,1,null,0,2945,0
+1606147832911,245,/web/services/shoppingBasket/lineItems/918-0782/1-28,200,OK,RAMP TEST 1-1,text,true,,1803,2187,1,1,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/918-0782/1,245,0,0
+1606147833158,479,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41091,4670,1,1,null,0,6012,0
+1606147836243,421,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40072,2292,1,1,https://ie.rs-online.com/web/ca/basketsummary/,413,0,0
+1606147839591,58,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1019,2378,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,58,0,0
+1606147839650,162,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26524,2196,1,1,null,0,3267,41
+1606147842915,162,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26524,2196,1,1,https://ie.rs-online.com/web/,152,0,41
+1606147843088,577,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,49290,2257,1,1,null,0,3167,0
+1606147846254,577,/web/c/lighting/-8,200,OK,RAMP TEST 1-1,text,true,,49290,2257,1,1,https://ie.rs-online.com/web/c/lighting/,571,0,0
+1606147846832,525,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,48320,2304,1,1,null,0,2752,0
+1606147849584,525,/web/c/lighting/light-fittings-luminaires/-14,200,OK,RAMP TEST 1-1,text,true,,48320,2304,1,1,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,518,0,0
+1606147850114,467,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,27445,4558,1,1,null,0,5829,0
+1606147852922,302,/web/c/lighting/light-fittings-luminaires/shaver-lights/-18,200,OK,RAMP TEST 1-1,text,true,,26063,2347,1,1,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,300,0,0
+1606147856245,165,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1382,2211,1,1,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=lighting%2Flight-fittings-luminaires%2Fshaver-lights&searchConfig=0,165,0,0
+1606147856411,586,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,30066,2340,1,1,null,0,3166,0
+1606147859576,586,/web/p/shaver-lights/8474875/-23,200,OK,RAMP TEST 1-1,text,true,,30066,2340,1,1,https://ie.rs-online.com/web/p/shaver-lights/8474875/,584,0,0
+1606147860166,149,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,1802,2187,1,1,null,0,2751,0
+1606147862916,149,/web/services/shoppingBasket/lineItems/847-4875/1-28,200,OK,RAMP TEST 1-1,text,true,,1802,2187,1,1,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/847-4875/1,149,0,0
+1606147863066,475,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41505,4669,1,1,null,0,6079,0
+1606147866241,433,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40487,2291,1,1,https://ie.rs-online.com/web/ca/basketsummary/,427,0,0
+1606147869576,42,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1018,2378,1,1,https://ie.rs-online.com/web/seam/resource/remoting/execute,42,0,0
+1606147869619,161,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26535,2196,2,2,null,0,3300,45
+1606147872919,161,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26535,2196,2,2,https://ie.rs-online.com/web/,154,0,45
+1606147872877,310,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,27609,575,2,2,null,0,2,84
+1606147872878,310,/web/-2,200,OK,RAMP TEST 1-2,text,true,,27609,575,2,2,https://ie.rs-online.com/web/,301,0,84
+1606147873190,472,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,46758,2004,2,2,null,0,3021,0
+1606147876210,472,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-2,text,true,,46758,2004,2,2,https://ie.rs-online.com/web/c/automation-control-gear/,463,0,0
+1606147873082,765,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,47004,2272,2,2,null,0,3159,0
+1606147876240,765,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,47004,2272,2,2,https://ie.rs-online.com/web/c/automation-control-gear/,761,0,0
+1606147877006,701,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,43237,2309,2,2,null,0,2568,0
+1606147879573,701,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-1,text,true,,43237,2309,2,2,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,692,0,0
+1606147876684,750,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,45464,2033,2,2,null,0,2870,0
+1606147879552,750,/web/c/automation-control-gear/sensors/-14,200,OK,RAMP TEST 1-2,text,true,,45464,2033,2,2,https://ie.rs-online.com/web/c/automation-control-gear/sensors/,745,0,0
+1606147880304,566,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,34471,4021,2,2,null,0,5542,0
+1606147882877,376,/web/c/automation-control-gear/sensors/flow-controllers/-18,200,OK,RAMP TEST 1-2,text,true,,30672,2079,2,2,https://ie.rs-online.com/web/c/automation-control-gear/sensors/flow-controllers/,374,0,0
+1606147886221,190,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,3799,1942,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fsensors%2Fflow-controllers&searchConfig=0,190,0,0
+1606147880275,4335,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,43985,4622,2,2,null,0,4731,0
+1606147882915,1233,/web/c/automation-control-gear/process-control/counters/-18,200,OK,RAMP TEST 1-1,text,true,,30551,2347,2,2,https://ie.rs-online.com/web/c/automation-control-gear/process-control/counters/,1230,0,0
+1606147886238,3102,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,13434,2275,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fcounters&searchConfig=0,3099,0,0
+1606147886413,617,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,30937,2287,2,2,null,0,3143,0
+1606147889555,617,/web/p/flow-controllers/2497462/-23,200,OK,RAMP TEST 1-2,text,true,,30937,2287,2,2,https://ie.rs-online.com/web/p/flow-controllers/2497462/,614,0,0
+1606147889341,3419,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,28987,2399,2,2,null,0,232,0
+1606147889572,3419,/web/p/counters/7105216/-23,200,OK,RAMP TEST 1-1,text,true,,28987,2399,2,2,https://ie.rs-online.com/web/p/counters/7105216/,3416,0,0
+1606147890174,401,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,2133,2131,2,2,null,0,2713,0
+1606147892886,401,/web/services/shoppingBasket/lineItems/249-7462/1-28,200,OK,RAMP TEST 1-2,text,true,,2133,2131,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/249-7462/1,401,0,0
+1606147892993,3145,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,1522,2251,2,2,null,0,1,0
+1606147892993,3145,/web/services/shoppingBasket/lineItems/710-5216/1-28,200,OK,RAMP TEST 1-1,text,true,,1522,2251,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/710-5216/1,3145,0,0
+1606147893288,1158,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,40186,4653,2,2,null,0,5142,0
+1606147896211,1117,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,39168,2275,2,2,https://ie.rs-online.com/web/ca/basketsummary/,1111,0,0
+1606147899547,41,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1018,2378,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,41,0,0
+1606147896140,5482,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41032,4797,2,2,null,0,183,0
+1606147896322,3436,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40011,2355,2,2,https://ie.rs-online.com/web/ca/basketsummary/,3430,0,0
+1606147899759,2046,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2442,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,2045,0,0
+1606147899589,184,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26523,2196,2,2,null,0,3298,46
+1606147902886,184,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26523,2196,2,2,https://ie.rs-online.com/web/,175,0,46
+1606147901805,2204,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26047,2260,2,2,null,0,1288,65
+1606147903092,2204,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26047,2260,2,2,https://ie.rs-online.com/web/,2197,0,65
+1606147903071,602,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,49434,2258,2,2,null,0,3140,0
+1606147906208,602,/web/c/switches/-8,200,OK,RAMP TEST 1-2,text,true,,49434,2258,2,2,https://ie.rs-online.com/web/c/switches/,596,0,0
+1606147905298,3446,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,46839,2336,2,2,null,0,1128,0
+1606147906425,3446,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,46839,2336,2,2,https://ie.rs-online.com/web/c/automation-control-gear/,3436,0,0
+1606147906813,584,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,41855,2305,2,2,null,0,2735,0
+1606147909547,584,/web/c/switches/foot-switches-accessories/-14,200,OK,RAMP TEST 1-2,text,true,,41855,2305,2,2,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,578,0,0
+1606147909872,2504,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,43072,2373,2,2,null,0,3,0
+1606147909873,2504,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-1,text,true,,43072,2373,2,2,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,2498,0,0
+1606147910132,376,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,29006,4581,2,2,null,0,5838,0
+1606147912877,239,/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/-18,200,OK,RAMP TEST 1-2,text,true,,27246,2359,2,2,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,236,0,0
+1606147916206,137,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1760,2222,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=switches%2Ffoot-switches-accessories%2Ffoot-switch-guard-covers&searchConfig=0,137,0,0
+1606147912379,4577,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,32326,4702,2,2,null,0,2796,0
+1606147913200,1359,/web/c/automation-control-gear/process-control/heating-elements/-18,200,OK,RAMP TEST 1-1,text,true,,29288,2419,2,2,https://ie.rs-online.com/web/c/automation-control-gear/process-control/heating-elements/,1357,0,0
+1606147916533,3218,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,3038,2283,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fheating-elements&searchConfig=0,3218,0,0
+1606147916348,591,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29706,2351,2,2,null,0,3207,0
+1606147919554,591,/web/p/foot-switch-guard-covers/0116653/-23,200,OK,RAMP TEST 1-2,text,true,,29706,2351,2,2,https://ie.rs-online.com/web/p/foot-switch-guard-covers/0116653/,587,0,0
+1606147919752,1428,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29843,2407,2,2,null,0,125,0
+1606147919876,1428,/web/p/heating-elements/4676825/-23,200,OK,RAMP TEST 1-1,text,true,,29843,2407,2,2,https://ie.rs-online.com/web/p/heating-elements/4676825/,1427,0,0
+1606147920146,446,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,1803,2186,2,2,null,0,2730,0
+1606147922876,446,/web/services/shoppingBasket/lineItems/116-653/1-28,200,OK,RAMP TEST 1-2,text,true,,1803,2186,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/116-653/1,446,0,0
+1606147921319,2241,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,1522,2251,2,2,null,0,1879,0
+1606147923198,2241,/web/services/shoppingBasket/lineItems/467-6825/1-28,200,OK,RAMP TEST 1-1,text,true,,1522,2251,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/467-6825/1,2240,0,0
+1606147923331,476,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,40522,4670,2,2,null,0,5790,0
+1606147926206,422,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,39504,2292,2,2,https://ie.rs-online.com/web/ca/basketsummary/,417,0,0
+1606147929542,54,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1018,2378,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,54,0,0
+1606147925439,4566,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41313,4797,2,2,null,0,1904,0
+1606147926532,2522,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40292,2355,2,2,https://ie.rs-online.com/web/ca/basketsummary/,2509,0,0
+1606147929865,2044,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2442,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,2044,0,0
+1606147929598,208,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26530,2196,2,2,null,0,3276,46
+1606147932873,208,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26530,2196,2,2,https://ie.rs-online.com/web/,199,0,46
+1606147931909,2180,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26053,2260,2,2,null,0,1290,57
+1606147933198,2180,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26053,2260,2,2,https://ie.rs-online.com/web/,2173,0,57
+1606147933082,754,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,54708,2289,2,2,null,0,3123,0
+1606147936203,754,/web/c/pneumatics-hydraulics-power-transmission/-8,200,OK,RAMP TEST 1-2,text,true,,54708,2289,2,2,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/,744,0,0
+1606147935379,3390,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,42062,2331,2,2,null,0,1153,0
+1606147936530,3390,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-1,text,true,,42062,2331,2,2,https://ie.rs-online.com/web/c/batteries-chargers/,3387,0,0
+1606147936958,421,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,44024,2332,2,2,null,0,2584,0
+1606147939542,421,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/-14,200,OK,RAMP TEST 1-2,text,true,,44024,2332,2,2,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/,416,0,0
+1606147939921,2383,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,40981,2380,2,2,null,0,1,0
+1606147939921,2383,/web/c/batteries-chargers/battery-charger-accessories/-14,200,OK,RAMP TEST 1-1,text,true,,40981,2380,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,2377,0,0
+1606147939964,521,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,30109,4616,2,2,null,0,5842,0
+1606147942870,398,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/-18,200,OK,RAMP TEST 1-2,text,true,,28383,2376,2,2,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/,394,0,0
+1606147946204,123,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1726,2240,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=pneumatics-hydraulics-power-transmission%2Fhydraulic-tubing-hose%2Fhydraulic-hose&searchConfig=0,123,0,0
+1606147942306,3470,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,27483,4704,2,2,null,0,2937,0
+1606147943255,1347,/web/c/batteries-chargers/battery-charger-accessories/jump-leads/-18,200,OK,RAMP TEST 1-1,text,true,,26214,2420,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,1345,0,0
+1606147946589,2123,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1269,2284,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-charger-accessories%2Fjump-leads&searchConfig=0,2123,0,0
+1606147946335,423,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29467,2341,2,2,null,0,3203,0
+1606147949537,423,/web/p/hydraulic-hose/1459782/-23,200,OK,RAMP TEST 1-2,text,true,,29467,2341,2,2,https://ie.rs-online.com/web/p/hydraulic-hose/1459782/,421,0,0
+1606147948713,2415,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29154,2401,2,2,null,0,1209,0
+1606147949921,2415,/web/p/jump-leads/1968250/-23,200,OK,RAMP TEST 1-1,text,true,,29154,2401,2,2,https://ie.rs-online.com/web/p/jump-leads/1968250/,2412,0,0
+1606147949961,193,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,1803,2187,2,2,null,0,2918,0
+1606147952879,193,/web/services/shoppingBasket/lineItems/145-9782/1-28,200,OK,RAMP TEST 1-2,text,true,,1803,2187,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/145-9782/1,193,0,0
+1606147952342,1174,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2251,2,2,null,0,914,0
+1606147953256,1174,/web/services/shoppingBasket/lineItems/196-8250/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2251,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/196-8250/1,1173,0,0
+1606147953072,436,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,40976,4670,2,2,null,0,6110,0
+1606147956203,354,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,39957,2292,2,2,https://ie.rs-online.com/web/ca/basketsummary/,348,0,0
+1606147959536,82,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1019,2378,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,82,0,0
+1606147954430,4563,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41211,4713,2,2,null,0,2161,49
+1606147956588,3461,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40190,2272,2,2,https://ie.rs-online.com/web/ca/basketsummary/,3448,0,49
+1606147960051,1102,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,1102,0,0
+1606147959619,200,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26531,2196,2,2,null,0,3250,45
+1606147962869,200,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26531,2196,2,2,https://ie.rs-online.com/web/,191,0,45
+1606147961154,2174,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26044,2259,2,2,null,0,2230,61
+1606147963384,2174,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26044,2259,2,2,https://ie.rs-online.com/web/,2167,0,61
+1606147963070,535,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,42138,2267,2,2,null,0,3137,0
+1606147966206,535,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-2,text,true,,42138,2267,2,2,https://ie.rs-online.com/web/c/batteries-chargers/,530,0,0
+1606147965559,2648,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,44189,2324,2,2,null,0,1158,0
+1606147966717,2648,/web/c/cables-wires/-8,200,OK,RAMP TEST 1-1,text,true,,44189,2324,2,2,https://ie.rs-online.com/web/c/cables-wires/,2640,0,0
+1606147966742,449,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,45352,2317,2,2,null,0,2804,0
+1606147969546,449,/web/c/batteries-chargers/battery-chargers-power-banks/-14,200,OK,RAMP TEST 1-2,text,true,,45352,2317,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,444,0,0
+1606147969373,3542,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,43681,2371,2,2,null,0,678,0
+1606147970050,3542,/web/c/cables-wires/computer-cable-assemblies/-14,200,OK,RAMP TEST 1-1,text,true,,43681,2371,2,2,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,3528,0,0
+1606147969996,537,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,39085,4590,2,2,null,0,5895,0
+1606147972868,310,/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/-18,200,OK,RAMP TEST 1-2,text,true,,31717,2363,2,2,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,308,0,0
+1606147976200,227,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,7368,2227,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-chargers-power-banks%2Fbattery-chargers&searchConfig=0,226,0,0
+1606147973593,2473,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,32056,4728,2,2,null,0,2026,0
+1606147973593,1317,/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/-18,200,OK,RAMP TEST 1-1,text,true,,30170,2432,2,2,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,1314,0,0
+1606147976934,1156,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1886,2296,2,2,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=cables-wires%2Fcomputer-cable-assemblies%2Fcomputer-power-cable-assemblies&searchConfig=0,1156,0,0
+1606147976427,402,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29800,2343,2,2,null,0,3107,0
+1606147979533,402,/web/p/battery-chargers/0383241/-23,200,OK,RAMP TEST 1-2,text,true,,29800,2343,2,2,https://ie.rs-online.com/web/p/battery-chargers/0383241/,401,0,0
+1606147979936,168,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,1802,2186,2,2,null,0,2931,0
+1606147982867,168,/web/services/shoppingBasket/lineItems/383-241/1-28,200,OK,RAMP TEST 1-2,text,true,,1802,2186,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/383-241/1,168,0,0
+1606147978091,3405,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29963,2421,2,2,null,0,2168,0
+1606147980258,3405,/web/p/computer-power-cable-assemblies/1614713/-23,200,OK,RAMP TEST 1-1,text,true,,29963,2421,2,2,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/1614713/,3403,0,0
+1606147983665,2119,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1076,2250,2,2,null,0,0,0
+1606147983665,2119,/web/services/shoppingBasket/lineItems/161-4713/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1076,2250,2,2,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/161-4713/1,2118,0,0
+1606147983036,631,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41445,4669,2,2,null,0,5959,0
+1606147986200,538,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40427,2291,2,2,https://ie.rs-online.com/web/ca/basketsummary/,534,0,0
+1606147989533,93,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1018,2378,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,93,0,0
+1606147985784,5475,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41215,4773,2,2,null,0,1215,52
+1606147986998,3434,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40194,2302,2,2,https://ie.rs-online.com/web/ca/basketsummary/,3421,0,52
+1606147990433,2041,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2471,2,2,https://ie.rs-online.com/web/seam/resource/remoting/execute,2041,0,0
+1606147992876,243,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,27611,575,3,3,null,0,3,38
+1606147992878,243,/web/-2,200,OK,RAMP TEST 1-3,text,true,,27611,575,3,3,https://ie.rs-online.com/web/,234,0,38
+1606147989626,265,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26523,2196,3,3,null,0,3244,37
+1606147992869,265,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26523,2196,3,3,https://ie.rs-online.com/web/,256,0,37
+1606147992474,1254,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26046,2289,3,3,null,0,1293,84
+1606147993766,1254,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26046,2289,3,3,https://ie.rs-online.com/web/,1245,0,84
+1606147993123,488,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,46759,2004,3,3,null,0,3088,0
+1606147996210,488,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-3,text,true,,46759,2004,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,482,0,0
+1606147993135,1093,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,46918,2272,3,3,null,0,3064,0
+1606147996198,1093,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-2,text,true,,46918,2272,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,1087,0,0
+1606147995021,2448,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,49141,2350,3,3,null,0,2075,0
+1606147997095,2448,/web/c/lighting/-8,200,OK,RAMP TEST 1-1,text,true,,49141,2350,3,3,https://ie.rs-online.com/web/c/lighting/,2438,0,0
+1606147996699,497,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,42991,2041,3,3,null,0,2843,0
+1606147999542,497,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-3,text,true,,42991,2041,3,3,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,491,0,0
+1606147997292,515,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,42256,2309,3,3,null,0,2241,0
+1606147999532,515,/web/c/automation-control-gear/electric-motors/-14,200,OK,RAMP TEST 1-2,text,true,,42256,2309,3,3,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/,509,0,0
+1606147999544,2972,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,48175,2397,3,3,null,0,888,0
+1606148000430,2972,/web/c/lighting/light-fittings-luminaires/-14,200,OK,RAMP TEST 1-1,text,true,,48175,2397,3,3,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,2962,0,0
+1606148000039,609,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,43936,4021,3,3,null,0,5829,0
+1606148002876,352,/web/c/automation-control-gear/process-control/counters/-18,200,OK,RAMP TEST 1-3,text,true,,29966,2079,3,3,https://ie.rs-online.com/web/c/automation-control-gear/process-control/counters/,348,0,0
+1606148006219,257,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,13970,1942,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fcounters&searchConfig=0,255,0,0
+1606148003404,2359,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,27023,4744,3,3,null,0,2473,0
+1606148003761,1218,/web/c/lighting/light-fittings-luminaires/shaver-lights/-18,200,OK,RAMP TEST 1-1,text,true,,25919,2440,3,3,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,1216,0,0
+1606148007095,1141,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1104,2304,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=lighting%2Flight-fittings-luminaires%2Fshaver-lights&searchConfig=0,1137,0,0
+1606148000048,5463,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,42663,4624,3,3,null,0,3906,0
+1606148002864,2244,/web/c/automation-control-gear/electric-motors/ac-motors/-18,200,OK,RAMP TEST 1-2,text,true,,30574,2348,3,3,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/ac-motors/,2241,0,0
+1606148006197,3219,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,12089,2276,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Felectric-motors%2Fac-motors&searchConfig=0,3217,0,0
+1606148006477,587,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,29078,2279,3,3,null,0,3067,0
+1606148009543,587,/web/p/counters/7105225/-23,200,OK,RAMP TEST 1-3,text,true,,29078,2279,3,3,https://ie.rs-online.com/web/p/counters/7105225/,575,0,0
+1606148009417,1441,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29605,2400,3,3,null,0,113,0
+1606148009530,1441,/web/p/ac-motors/9180745/-23,200,OK,RAMP TEST 1-2,text,true,,29605,2400,3,3,https://ie.rs-online.com/web/p/ac-motors/9180745/,1439,0,0
+1606148008237,1528,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29777,2433,3,3,null,0,2191,0
+1606148010427,1528,/web/p/shaver-lights/8474875/-23,200,OK,RAMP TEST 1-1,text,true,,29777,2433,3,3,https://ie.rs-online.com/web/p/shaver-lights/8474875/,1526,0,0
+1606148011956,1163,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2280,3,3,null,0,1803,0
+1606148013759,1163,/web/services/shoppingBasket/lineItems/847-4875/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2280,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/847-4875/1,1163,0,0
+1606148010972,2328,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,1522,2251,3,3,null,0,1893,0
+1606148012864,2328,/web/services/shoppingBasket/lineItems/918-0745/1-28,200,OK,RAMP TEST 1-2,text,true,,1522,2251,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/918-0745/1,2328,0,0
+1606148015193,4400,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41027,4797,3,3,null,0,1005,0
+1606148016196,3361,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40006,2355,3,3,https://ie.rs-online.com/web/ca/basketsummary/,3357,0,0
+1606148019558,1039,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2442,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,1039,0,0
+1606148014923,6576,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41219,4713,3,3,null,0,2175,40
+1606148017097,3533,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40198,2272,3,3,https://ie.rs-online.com/web/ca/basketsummary/,3522,0,40
+1606148020631,3043,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,3043,0,0
+1606148020598,2196,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26048,2260,3,3,null,0,2288,41
+1606148022886,2196,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26048,2260,3,3,https://ie.rs-online.com/web/,2187,0,41
+1606148023674,1211,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26046,2259,3,3,null,0,305,79
+1606148023979,1211,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26046,2259,3,3,https://ie.rs-online.com/web/,1203,0,79
+1606148025082,2567,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,46863,2336,3,3,null,0,1138,0
+1606148026219,2567,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-2,text,true,,46863,2336,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,2561,0,0
+1606148025190,1561,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,49273,2320,3,3,null,0,2108,0
+1606148027297,1561,/web/c/switches/-8,200,OK,RAMP TEST 1-1,text,true,,49273,2320,3,3,https://ie.rs-online.com/web/c/switches/,1550,0,0
+1606148028788,1502,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,45549,2365,3,3,null,0,773,0
+1606148029561,1502,/web/c/automation-control-gear/sensors/-14,200,OK,RAMP TEST 1-2,text,true,,45549,2365,3,3,https://ie.rs-online.com/web/c/automation-control-gear/sensors/,1496,0,0
+1606148028859,2374,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,41674,2367,3,3,null,0,1774,0
+1606148030632,2374,/web/c/switches/foot-switches-accessories/-14,200,OK,RAMP TEST 1-1,text,true,,41674,2367,3,3,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,2368,0,0
+1606148031064,3598,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,33915,4686,3,3,null,0,2925,0
+1606148032899,2235,/web/c/automation-control-gear/sensors/flow-controllers/-18,200,OK,RAMP TEST 1-2,text,true,,30651,2411,3,3,https://ie.rs-online.com/web/c/automation-control-gear/sensors/flow-controllers/,2233,0,0
+1606148036223,1363,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,3264,2275,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fsensors%2Fflow-controllers&searchConfig=0,1363,0,0
+1606148033007,5483,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,28535,4706,3,3,null,0,1915,0
+1606148033975,2384,/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/-18,200,OK,RAMP TEST 1-1,text,true,,27052,2421,3,3,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,2382,0,0
+1606148037305,3099,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1483,2285,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=switches%2Ffoot-switches-accessories%2Ffoot-switch-guard-covers&searchConfig=0,3099,0,0
+1606148037587,1307,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29530,2407,3,3,null,0,1966,0
+1606148039552,1307,/web/p/flow-controllers/0257026/-23,200,OK,RAMP TEST 1-2,text,true,,29530,2407,3,3,https://ie.rs-online.com/web/p/flow-controllers/0257026/,1306,0,0
+1606148040405,1733,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29575,2414,3,3,null,0,237,0
+1606148040641,1733,/web/p/foot-switch-guard-covers/0116653/-23,200,OK,RAMP TEST 1-1,text,true,,29575,2414,3,3,https://ie.rs-online.com/web/p/foot-switch-guard-covers/0116653/,1732,0,0
+1606148010131,30009,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,2988,0,3,3,null,0,2747,0
+1606148012877,30009,/web/services/shoppingBasket/lineItems/710-5225/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,2988,0,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/710-5225/1,0,0,0
+1606148040860,3168,S01_T006_Add_To_Basket,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,1522,2250,3,3,null,0,2037,0
+1606148042897,3168,/web/services/shoppingBasket/lineItems/257-026/1-28,200,OK,RAMP TEST 1-2,text,true,,1522,2250,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/257-026/1,3167,0,0
+1606148042375,2129,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1045,2249,3,3,null,0,1586,0
+1606148043961,2129,/web/services/shoppingBasket/lineItems/116-653/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1045,2249,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/116-653/1,2129,0,0
+1606148042887,944,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,36443,4495,3,3,null,0,2435,39
+1606148042887,898,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,35509,2153,3,3,https://ie.rs-online.com/web/ca/basketsummary/,887,0,39
+1606148046220,46,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,934,2342,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,46,0,0
+1606148046266,153,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,26306,2160,3,3,null,0,3289,38
+1606148049554,153,/web/-2,200,OK,RAMP TEST 1-3,text,true,,26306,2160,3,3,https://ie.rs-online.com/web/,145,0,38
+1606148046065,6635,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41432,4797,3,3,null,0,153,0
+1606148046217,3544,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40411,2355,3,3,https://ie.rs-online.com/web/ca/basketsummary/,3542,0,0
+1606148049762,3091,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2442,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,3091,0,0
+1606148046090,4513,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41210,4713,3,3,null,0,3067,37
+1606148047295,1472,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40189,2272,3,3,https://ie.rs-online.com/web/ca/basketsummary/,1462,0,37
+1606148050628,3041,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,3041,0,0
+1606148049708,1024,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,46973,2236,3,3,null,0,3186,0
+1606148052893,1024,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-3,text,true,,46973,2236,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,1018,0,0
+1606148053670,1297,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26046,2259,3,3,null,0,296,38
+1606148053965,1297,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26046,2259,3,3,https://ie.rs-online.com/web/,1288,0,38
+1606148052854,2598,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26040,2260,3,3,null,0,243,42
+1606148053096,2598,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26040,2260,3,3,https://ie.rs-online.com/web/,2590,0,42
+1606148053918,501,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,43195,2273,3,3,null,0,2301,0
+1606148056218,501,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-3,text,true,,43195,2273,3,3,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,494,0,0
+1606148055263,2582,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,42060,2330,3,3,null,0,2033,0
+1606148057293,2582,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-1,text,true,,42060,2330,3,3,https://ie.rs-online.com/web/c/batteries-chargers/,2579,0,0
+1606148055694,3894,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,54552,2353,3,3,null,0,734,0
+1606148056427,3894,/web/c/pneumatics-hydraulics-power-transmission/-8,200,OK,RAMP TEST 1-2,text,true,,54552,2353,3,3,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/,3824,0,0
+1606148060323,1398,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,43867,2396,3,3,null,0,1,0
+1606148060323,1398,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/-14,200,OK,RAMP TEST 1-2,text,true,,43867,2396,3,3,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/,1393,0,0
+1606148059877,2519,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,40965,2379,3,3,null,0,768,0
+1606148060645,2519,/web/c/batteries-chargers/battery-charger-accessories/-14,200,OK,RAMP TEST 1-1,text,true,,40965,2379,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,2511,0,0
+1606148056720,592,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,32609,4502,3,3,null,0,5863,0
+1606148059551,314,/web/c/automation-control-gear/process-control/heating-elements/-18,200,OK,RAMP TEST 1-3,text,true,,29378,2319,3,3,https://ie.rs-online.com/web/c/automation-control-gear/process-control/heating-elements/,312,0,0
+1606148062897,278,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,3231,2183,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fheating-elements&searchConfig=0,278,0,0
+1606148063176,420,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,28654,2307,3,3,null,0,3042,0
+1606148066218,420,/web/p/heating-elements/2462501/-23,200,OK,RAMP TEST 1-3,text,true,,28654,2307,3,3,https://ie.rs-online.com/web/p/heating-elements/2462501/,418,0,0
+1606148061723,4303,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,29561,4744,3,3,null,0,4087,0
+1606148063665,1180,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/-18,200,OK,RAMP TEST 1-2,text,true,,28113,2440,3,3,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/,1177,0,0
+1606148066989,3123,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1448,2304,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=pneumatics-hydraulics-power-transmission%2Fhydraulic-tubing-hose%2Fhydraulic-hose&searchConfig=0,3123,0,0
+1606148063166,6354,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,27409,4702,3,3,null,0,900,0
+1606148063960,3227,/web/c/batteries-chargers/battery-charger-accessories/jump-leads/-18,200,OK,RAMP TEST 1-1,text,true,,26140,2419,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,3225,0,0
+1606148067293,3127,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1269,2283,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-charger-accessories%2Fjump-leads&searchConfig=0,3127,0,0
+1606148070113,2492,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29259,2405,3,3,null,0,219,0
+1606148070331,2492,/web/p/hydraulic-hose/1459782/-23,200,OK,RAMP TEST 1-2,text,true,,29259,2405,3,3,https://ie.rs-online.com/web/p/hydraulic-hose/1459782/,2491,0,0
+1606148070420,2340,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29150,2400,3,3,null,0,221,0
+1606148070641,2340,/web/p/jump-leads/1968250/-23,200,OK,RAMP TEST 1-1,text,true,,29150,2400,3,3,https://ie.rs-online.com/web/p/jump-leads/1968250/,2337,0,0
+1606148072982,1128,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2250,3,3,null,0,978,0
+1606148073959,1128,/web/services/shoppingBasket/lineItems/196-8250/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2250,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/196-8250/1,1128,0,0
+1606148072824,2168,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1046,2251,3,3,null,0,841,0
+1606148073664,2168,/web/services/shoppingBasket/lineItems/145-9782/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1046,2251,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/145-9782/1,2168,0,0
+1606148075833,6590,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41324,4713,3,3,null,0,1156,92
+1606148076988,3546,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40303,2272,3,3,https://ie.rs-online.com/web/ca/basketsummary/,3535,0,92
+1606148080535,3044,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,3044,0,0
+1606148075088,5495,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41220,4713,3,3,null,0,3113,37
+1606148077295,2424,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40199,2272,3,3,https://ie.rs-online.com/web/ca/basketsummary/,2414,0,37
+1606148080624,3071,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,3071,0,0
+1606148083579,1190,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26046,2259,3,3,null,0,298,53
+1606148083876,1190,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26046,2259,3,3,https://ie.rs-online.com/web/,1184,0,53
+1606148083695,2265,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26043,2259,3,3,null,0,263,54
+1606148083957,2265,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26043,2259,3,3,https://ie.rs-online.com/web/,2258,0,54
+1606148086224,1585,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,44185,2324,3,3,null,0,1068,0
+1606148087291,1585,/web/c/cables-wires/-8,200,OK,RAMP TEST 1-1,text,true,,44185,2324,3,3,https://ie.rs-online.com/web/c/cables-wires/,1583,0,0
+1606148085067,2633,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,42093,2330,3,3,null,0,2139,0
+1606148087206,2633,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-2,text,true,,42093,2330,3,3,https://ie.rs-online.com/web/c/batteries-chargers/,2628,0,0
+1606148089840,1531,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,45197,2380,3,3,null,0,708,0
+1606148090547,1531,/web/c/batteries-chargers/battery-chargers-power-banks/-14,200,OK,RAMP TEST 1-2,text,true,,45197,2380,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,1526,0,0
+1606148088877,1543,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,43664,2371,3,3,null,0,1756,0
+1606148090632,1543,/web/c/cables-wires/computer-cable-assemblies/-14,200,OK,RAMP TEST 1-1,text,true,,43664,2371,3,3,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,1538,0,0
+1606148092079,2474,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,38527,4716,3,3,null,0,3856,0
+1606148093866,1266,/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/-18,200,OK,RAMP TEST 1-2,text,true,,31436,2426,3,3,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,1264,0,0
+1606148097201,1208,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,7091,2290,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-chargers-power-banks%2Fbattery-chargers&searchConfig=0,1207,0,0
+1606148092176,3439,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,32048,4728,3,3,null,0,2909,0
+1606148093957,2205,/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/-18,200,OK,RAMP TEST 1-1,text,true,,30162,2432,3,3,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,2199,0,0
+1606148097290,1234,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1886,2296,3,3,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=cables-wires%2Fcomputer-cable-assemblies%2Fcomputer-power-cable-assemblies&searchConfig=0,1234,0,0
+1606148066639,30014,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,2988,0,3,3,null,0,2913,0
+1606148069551,30014,/web/services/shoppingBasket/lineItems/246-2501/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,2988,0,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/246-2501/1,0,0,0
+1606148099566,542,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,36453,4515,3,3,null,0,2835,39
+1606148099566,497,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,35519,2173,3,3,https://ie.rs-online.com/web/ca/basketsummary/,488,0,39
+1606148102898,45,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,934,2342,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,45,0,0
+1606148098409,2572,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29544,2406,3,3,null,0,2137,0
+1606148100544,2572,/web/p/battery-chargers/7934332/-23,200,OK,RAMP TEST 1-2,text,true,,29544,2406,3,3,https://ie.rs-online.com/web/p/battery-chargers/7934332/,2571,0,0
+1606148098525,3645,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,31193,2421,3,3,null,0,2098,0
+1606148100623,3645,/web/p/computer-power-cable-assemblies/1650488/-23,200,OK,RAMP TEST 1-1,text,true,,31193,2421,3,3,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/1650488/,3642,0,0
+1606148103118,1374,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1076,2250,3,3,null,0,749,0
+1606148103866,1374,/web/services/shoppingBasket/lineItems/793-4332/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1076,2250,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/793-4332/1,1374,0,0
+1606148104269,1353,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2250,3,3,null,0,1,0
+1606148104269,1353,/web/services/shoppingBasket/lineItems/165-0488/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2250,3,3,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/165-0488/1,1353,0,0
+1606148102943,281,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,26316,2160,3,3,null,0,3290,46
+1606148106232,281,/web/-2,200,OK,RAMP TEST 1-3,text,true,,26316,2160,3,3,https://ie.rs-online.com/web/,274,0,46
+1606148106514,815,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,46985,2237,3,3,null,0,3051,0
+1606148109564,815,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-3,text,true,,46985,2237,3,3,https://ie.rs-online.com/web/c/automation-control-gear/,807,0,0
+1606148105241,4551,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41315,4773,3,3,null,0,1958,57
+1606148107198,3509,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40294,2302,3,3,https://ie.rs-online.com/web/ca/basketsummary/,3498,0,57
+1606148110708,1042,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2471,3,3,https://ie.rs-online.com/web/seam/resource/remoting/execute,1042,0,0
+1606148112876,384,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,27597,575,4,4,null,0,2,37
+1606148112877,384,/web/-2,200,OK,RAMP TEST 1-4,text,true,,27597,575,4,4,https://ie.rs-online.com/web/,374,0,37
+1606148110380,706,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,42230,2274,4,4,null,0,2519,0
+1606148112898,706,/web/c/automation-control-gear/electric-motors/-14,200,OK,RAMP TEST 1-3,text,true,,42230,2274,4,4,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/,700,0,0
+1606148105623,4511,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41204,4713,4,4,null,0,3875,43
+1606148107601,1451,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40183,2272,3,3,https://ie.rs-online.com/web/ca/basketsummary/,1439,0,43
+1606148110949,3060,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,3060,0,0
+1606148111750,2178,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26042,2289,4,4,null,0,2291,44
+1606148114041,2178,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26042,2289,4,4,https://ie.rs-online.com/web/,2167,0,44
+1606148114010,2195,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26043,2259,4,4,null,0,258,74
+1606148114268,2195,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26043,2259,4,4,https://ie.rs-online.com/web/,2188,0,74
+1606148113262,496,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,46758,2003,4,4,null,0,2958,0
+1606148116219,496,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-4,text,true,,46758,2003,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,487,0,0
+1606148113605,667,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,42096,4489,4,4,null,0,5550,0
+1606148116231,431,/web/c/automation-control-gear/electric-motors/ac-motors/-18,200,OK,RAMP TEST 1-3,text,true,,29814,2313,4,4,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/ac-motors/,429,0,0
+1606148119586,236,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,12282,2176,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Felectric-motors%2Fac-motors&searchConfig=0,233,0,0
+1606148116716,548,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,42995,2040,4,4,null,0,2826,0
+1606148119542,548,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-4,text,true,,42995,2040,4,4,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,543,0,0
+1606148116219,3517,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,49156,2350,4,4,null,0,1156,0
+1606148117374,3517,/web/c/lighting/-8,200,OK,RAMP TEST 1-2,text,true,,49156,2350,4,4,https://ie.rs-online.com/web/c/lighting/,3507,0,0
+1606148116463,3438,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,46871,2335,4,4,null,0,1139,0
+1606148117601,3438,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,46871,2335,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,3432,0,0
+1606148120892,1498,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,48175,2397,4,4,null,0,2,0
+1606148120893,1498,/web/c/lighting/light-fittings-luminaires/-14,200,OK,RAMP TEST 1-2,text,true,,48175,2397,4,4,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,1491,0,0
+1606148121040,1576,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,45548,2364,4,4,null,0,1,0
+1606148121040,1576,/web/c/automation-control-gear/sensors/-14,200,OK,RAMP TEST 1-1,text,true,,45548,2364,4,4,https://ie.rs-online.com/web/c/automation-control-gear/sensors/,1571,0,0
+1606148119822,2289,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,29560,2300,4,4,null,0,3075,0
+1606148122897,2289,/web/p/ac-motors/9180830/-23,200,OK,RAMP TEST 1-3,text,true,,29560,2300,4,4,https://ie.rs-online.com/web/p/ac-motors/9180830/,2286,0,0
+1606148120090,3058,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,43856,4020,4,4,null,0,3328,0
+1606148122874,2790,/web/c/automation-control-gear/process-control/counters/-18,200,OK,RAMP TEST 1-4,text,true,,29887,2078,4,4,https://ie.rs-online.com/web/c/automation-control-gear/process-control/counters/,2788,0,0
+1606148126208,268,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-4,text,true,,13969,1942,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fcounters&searchConfig=0,266,0,0
+1606148122617,2504,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,33842,4684,4,4,null,0,3723,0
+1606148124375,1367,/web/c/automation-control-gear/sensors/flow-controllers/-18,200,OK,RAMP TEST 1-1,text,true,,30578,2410,4,4,https://ie.rs-online.com/web/c/automation-control-gear/sensors/flow-controllers/,1365,0,0
+1606148127707,1137,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,3264,2274,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fsensors%2Fflow-controllers&searchConfig=0,1136,0,0
+1606148122392,5442,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,26958,4744,4,4,null,0,1834,0
+1606148124225,3340,/web/c/lighting/light-fittings-luminaires/shaver-lights/-18,200,OK,RAMP TEST 1-2,text,true,,25855,2440,4,4,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,3338,0,0
+1606148127566,2102,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1103,2304,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=lighting%2Flight-fittings-luminaires%2Fshaver-lights&searchConfig=0,2101,0,0
+1606148126477,431,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,30226,2279,4,4,null,0,3065,0
+1606148129541,431,/web/p/counters/8966905/-23,200,OK,RAMP TEST 1-4,text,true,,30226,2279,4,4,https://ie.rs-online.com/web/p/counters/8966905/,428,0,0
+1606148129668,2908,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29771,2433,4,4,null,0,1232,0
+1606148130899,2908,/web/p/shaver-lights/8474875/-23,200,OK,RAMP TEST 1-2,text,true,,29771,2433,4,4,https://ie.rs-online.com/web/p/shaver-lights/8474875/,2905,0,0
+1606148128844,3836,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,30318,2406,4,4,null,0,2197,0
+1606148131039,3836,/web/p/flow-controllers/7213966/-23,200,OK,RAMP TEST 1-1,text,true,,30318,2406,4,4,https://ie.rs-online.com/web/p/flow-controllers/7213966/,3834,0,0
+1606148133822,1137,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1045,2280,4,4,null,0,413,0
+1606148134234,1137,/web/services/shoppingBasket/lineItems/847-4875/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1045,2280,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/847-4875/1,1137,0,0
+1606148134876,2212,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1045,2250,4,4,null,0,0,0
+1606148134876,2212,/web/services/shoppingBasket/lineItems/721-3966/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1045,2250,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/721-3966/1,2211,0,0
+1606148135372,5651,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41317,4713,4,4,null,0,2201,59
+1606148137573,3537,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40296,2272,4,4,https://ie.rs-online.com/web/ca/basketsummary/,3525,0,59
+1606148141111,2114,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2114,0,0
+1606148137089,5555,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41215,4713,4,4,null,0,1109,40
+1606148138197,3461,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40194,2272,4,4,https://ie.rs-online.com/web/ca/basketsummary/,3450,0,40
+1606148141659,2094,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2094,0,0
+1606148143225,1194,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26047,2259,4,4,null,0,1214,50
+1606148144439,1194,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26047,2259,4,4,https://ie.rs-online.com/web/,1192,0,50
+1606148143753,1637,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26039,2259,4,4,null,0,1227,39
+1606148144979,1637,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26039,2259,4,4,https://ie.rs-online.com/web/,1628,0,39
+1606148146617,1520,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,46853,2335,4,4,null,0,1710,0
+1606148148326,1520,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,46853,2335,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,1514,0,0
+1606148145633,3539,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,49294,2320,4,4,null,0,2142,0
+1606148147773,3539,/web/c/switches/-8,200,OK,RAMP TEST 1-2,text,true,,49294,2320,4,4,https://ie.rs-online.com/web/c/switches/,3531,0,0
+1606148151314,2731,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,41709,2367,4,4,null,0,1,0
+1606148151314,2731,/web/c/switches/foot-switches-accessories/-14,200,OK,RAMP TEST 1-2,text,true,,41709,2367,4,4,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,2725,0,0
+1606148149847,3509,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,43081,2372,4,4,null,0,1802,0
+1606148151647,3509,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-1,text,true,,43081,2372,4,4,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,3504,0,0
+1606148125186,30008,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,2988,0,4,4,null,0,1047,0
+1606148126233,30008,/web/services/shoppingBasket/lineItems/918-0830/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,2988,0,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/918-0830/1,0,0,0
+1606148154046,4288,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,28594,4706,4,4,null,0,744,0
+1606148154648,3190,/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/-18,200,OK,RAMP TEST 1-2,text,true,,27111,2421,4,4,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,3190,0,0
+1606148157979,1098,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1483,2285,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=switches%2Ffoot-switches-accessories%2Ffoot-switch-guard-covers&searchConfig=0,1098,0,0
+1606148156240,699,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,36448,4515,4,4,null,0,2676,42
+1606148156241,657,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,35514,2173,4,4,https://ie.rs-online.com/web/ca/basketsummary/,647,0,42
+1606148159573,42,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,934,2342,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,42,0,0
+1606148155158,5463,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,32327,4700,4,4,null,0,76,0
+1606148155158,3250,/web/c/automation-control-gear/process-control/heating-elements/-18,200,OK,RAMP TEST 1-1,text,true,,29289,2418,4,4,https://ie.rs-online.com/web/c/automation-control-gear/process-control/heating-elements/,3248,0,0
+1606148158483,2213,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,3038,2282,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fheating-elements&searchConfig=0,2212,0,0
+1606148129973,30005,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-4,,false,,2988,0,4,4,null,0,2902,0
+1606148132873,30005,/web/services/shoppingBasket/lineItems/896-6905/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-4,text,false,Test failed: text expected to contain /basketId/,2988,0,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/896-6905/1,0,0,0
+1606148159615,783,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,26314,2160,4,4,null,0,3296,38
+1606148162910,783,/web/-2,200,OK,RAMP TEST 1-3,text,true,,26314,2160,4,4,https://ie.rs-online.com/web/,775,0,38
+1606148159078,2521,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29440,2414,4,4,null,0,2235,0
+1606148161312,2521,/web/p/foot-switch-guard-covers/0116782/-23,200,OK,RAMP TEST 1-2,text,true,,29440,2414,4,4,https://ie.rs-online.com/web/p/foot-switch-guard-covers/0116782/,2520,0,0
+1606148160696,2596,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,28632,2406,4,4,null,0,1120,0
+1606148161815,2596,/web/p/heating-elements/2001229/-23,200,OK,RAMP TEST 1-1,text,true,,28632,2406,4,4,https://ie.rs-online.com/web/p/heating-elements/2001229/,2595,0,0
+1606148163834,1335,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1044,2249,4,4,null,0,812,0
+1606148164646,1335,/web/services/shoppingBasket/lineItems/116-782/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1044,2249,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/116-782/1,1334,0,0
+1606148162879,759,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,36446,4495,4,4,null,0,2625,44
+1606148162879,711,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-4,text,true,,35512,2153,4,4,https://ie.rs-online.com/web/ca/basketsummary/,701,0,44
+1606148166215,48,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-4,text,true,,934,2342,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,48,0,0
+1606148164412,1366,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1045,2250,4,4,null,0,737,0
+1606148165149,1366,/web/services/shoppingBasket/lineItems/200-1229/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1045,2250,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/200-1229/1,1366,0,0
+1606148163694,735,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,54669,2253,4,4,null,0,2560,0
+1606148166252,735,/web/c/pneumatics-hydraulics-power-transmission/-8,200,OK,RAMP TEST 1-3,text,true,,54669,2253,4,4,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/,727,0,0
+1606148166263,167,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,26308,2160,4,4,null,0,3282,40
+1606148169544,167,/web/-2,200,OK,RAMP TEST 1-4,text,true,,26308,2160,4,4,https://ie.rs-online.com/web/,160,0,40
+1606148166989,670,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,43983,2296,4,4,null,0,2584,0
+1606148169572,670,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/-14,200,OK,RAMP TEST 1-3,text,true,,43983,2296,4,4,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/,664,0,0
+1606148166515,4636,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41214,4713,4,4,null,0,1968,41
+1606148168482,3562,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40193,2272,4,4,https://ie.rs-online.com/web/ca/basketsummary/,3552,0,41
+1606148172046,1074,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,1074,0,0
+1606148169712,545,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,42206,2231,4,4,null,0,3178,0
+1606148172891,545,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-4,text,true,,42206,2231,4,4,https://ie.rs-online.com/web/c/batteries-chargers/,541,0,0
+1606148165981,6379,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41324,4713,4,4,null,0,1998,55
+1606148167978,4329,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40303,2272,4,4,https://ie.rs-online.com/web/ca/basketsummary/,4317,0,55
+1606148172309,2050,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2050,0,0
+1606148170243,1737,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,29851,4544,4,4,null,0,4362,0
+1606148172905,1634,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/-18,200,OK,RAMP TEST 1-3,text,true,,28210,2340,4,4,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/,1633,0,0
+1606148176239,103,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,1641,2204,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=pneumatics-hydraulics-power-transmission%2Fhydraulic-tubing-hose%2Fhydraulic-hose&searchConfig=0,103,0,0
+1606148173436,512,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,41130,2280,4,4,null,0,2787,0
+1606148176222,512,/web/c/batteries-chargers/battery-charger-accessories/-14,200,OK,RAMP TEST 1-4,text,true,,41130,2280,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,505,0,0
+1606148173121,2173,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26043,2259,4,4,null,0,2266,43
+1606148175387,2173,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26043,2259,4,4,https://ie.rs-online.com/web/,2165,0,43
+1606148174360,3930,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26044,2259,4,4,null,0,1282,59
+1606148175642,3930,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26044,2259,4,4,https://ie.rs-online.com/web/,3922,0,59
+1606148176343,445,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,29365,2305,4,4,null,0,3230,0
+1606148179572,445,/web/p/hydraulic-hose/1459782/-23,200,OK,RAMP TEST 1-3,text,true,,29365,2305,4,4,https://ie.rs-online.com/web/p/hydraulic-hose/1459782/,443,0,0
+1606148177560,3913,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,42068,2330,4,4,null,0,1152,0
+1606148178712,3913,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-1,text,true,,42068,2330,4,4,https://ie.rs-online.com/web/c/batteries-chargers/,3906,0,0
+1606148179573,3464,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,44211,2324,4,4,null,0,0,0
+1606148179573,3464,/web/c/cables-wires/-8,200,OK,RAMP TEST 1-2,text,true,,44211,2324,4,4,https://ie.rs-online.com/web/c/cables-wires/,3458,0,0
+1606148176735,958,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,27703,4504,4,4,null,0,5374,0
+1606148179544,768,/web/c/batteries-chargers/battery-charger-accessories/jump-leads/-18,200,OK,RAMP TEST 1-4,text,true,,26241,2320,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,768,0,0
+1606148182876,190,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-4,text,true,,1462,2184,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-charger-accessories%2Fjump-leads&searchConfig=0,190,0,0
+1606148183036,1393,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,43686,2371,4,4,null,0,2,0
+1606148183037,1393,/web/c/cables-wires/computer-cable-assemblies/-14,200,OK,RAMP TEST 1-2,text,true,,43686,2371,4,4,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,1385,0,0
+1606148182625,2349,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,45187,2380,4,4,null,0,1,0
+1606148182625,2349,/web/c/batteries-chargers/battery-chargers-power-banks/-14,200,OK,RAMP TEST 1-1,text,true,,45187,2380,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,2348,0,0
+1606148183066,422,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,29203,2301,4,4,null,0,3157,0
+1606148186224,422,/web/p/jump-leads/6319215/-23,200,OK,RAMP TEST 1-4,text,true,,29203,2301,4,4,https://ie.rs-online.com/web/p/jump-leads/6319215/,420,0,0
+1606148184431,5505,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,32049,4728,4,4,null,0,1949,0
+1606148186370,3330,/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/-18,200,OK,RAMP TEST 1-2,text,true,,30162,2432,4,4,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,3327,0,0
+1606148189711,2175,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1887,2296,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=cables-wires%2Fcomputer-cable-assemblies%2Fcomputer-power-cable-assemblies&searchConfig=0,2175,0,0
+1606148184981,6487,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,38591,4716,4,4,null,0,1069,0
+1606148185960,3242,/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/-18,200,OK,RAMP TEST 1-1,text,true,,31500,2426,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,3238,0,0
+1606148189293,3245,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,7091,2290,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-chargers-power-banks%2Fbattery-chargers&searchConfig=0,3244,0,0
+1606148192539,3403,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29883,2406,4,4,null,0,90,0
+1606148192628,3403,/web/p/battery-chargers/0549283/-23,200,OK,RAMP TEST 1-1,text,true,,29883,2406,4,4,https://ie.rs-online.com/web/p/battery-chargers/0549283/,3401,0,0
+1606148191887,3366,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,31215,2421,4,4,null,0,1155,0
+1606148193041,3366,/web/p/computer-power-cable-assemblies/6861056/-23,200,OK,RAMP TEST 1-2,text,true,,31215,2421,4,4,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/6861056/,3363,0,0
+1606148196038,1116,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1045,2249,4,4,null,0,2,0
+1606148196039,1116,/web/services/shoppingBasket/lineItems/549-283/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1045,2249,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/549-283/1,1116,0,0
+1606148196407,3120,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1046,2250,4,4,null,0,0,0
+1606148196407,3120,/web/services/shoppingBasket/lineItems/686-1056/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1046,2250,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/686-1056/1,3119,0,0
+1606148197156,4732,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41204,4713,4,4,null,0,2896,49
+1606148199369,2660,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40183,2272,4,4,https://ie.rs-online.com/web/ca/basketsummary/,2649,0,49
+1606148202713,2072,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2072,0,0
+1606148199527,5902,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41318,4713,4,4,null,0,209,54
+1606148199734,3858,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40297,2272,4,4,https://ie.rs-online.com/web/ca/basketsummary/,3845,0,54
+1606148203594,2044,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,2044,0,0
+1606148204785,1172,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26053,2259,4,4,null,0,1252,39
+1606148206036,1172,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26053,2259,4,4,https://ie.rs-online.com/web/,1166,0,39
+1606148205639,3162,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26042,2259,4,4,null,0,1282,40
+1606148206920,3162,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26042,2259,4,4,https://ie.rs-online.com/web/,3152,0,40
+1606148207209,2456,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,46849,2335,4,4,null,0,2164,0
+1606148209373,2456,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,46849,2335,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,2452,0,0
+1606148180018,30013,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,2988,0,4,4,null,0,2887,0
+1606148182904,30013,/web/services/shoppingBasket/lineItems/145-9782/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,2988,0,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/145-9782/1,0,0,0
+1606148210085,3461,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,49129,2320,4,4,null,0,166,0
+1606148210250,3461,/web/c/lighting/-8,200,OK,RAMP TEST 1-2,text,true,,49129,2320,4,4,https://ie.rs-online.com/web/c/lighting/,3456,0,0
+1606148213712,1416,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,48160,2367,4,4,null,0,1,0
+1606148213713,1416,/web/c/lighting/light-fittings-luminaires/-14,200,OK,RAMP TEST 1-2,text,true,,48160,2367,4,4,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,1411,0,0
+1606148211830,3416,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,42092,2372,4,4,null,0,880,0
+1606148212709,3416,/web/c/automation-control-gear/electric-motors/-14,200,OK,RAMP TEST 1-1,text,true,,42092,2372,4,4,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/,3411,0,0
+1606148212918,430,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,36454,4515,4,4,null,0,2945,39
+1606148212919,389,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,35520,2173,4,4,https://ie.rs-online.com/web/ca/basketsummary/,382,0,39
+1606148216251,41,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,934,2342,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,41,0,0
+1606148186646,30016,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-4,,false,,2988,0,4,4,null,0,2896,0
+1606148189542,30016,/web/services/shoppingBasket/lineItems/631-9215/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-4,text,false,Test failed: text expected to contain /basketId/,2988,0,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/631-9215/1,0,0,0
+1606148216293,156,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,26308,2160,4,4,null,0,3291,39
+1606148219583,156,/web/-2,200,OK,RAMP TEST 1-3,text,true,,26308,2160,4,4,https://ie.rs-online.com/web/,149,0,39
+1606148216125,3525,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,42048,4686,4,4,null,0,1134,0
+1606148216125,2200,/web/c/automation-control-gear/electric-motors/ac-motors/-18,200,OK,RAMP TEST 1-1,text,true,,29959,2411,4,4,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/ac-motors/,2191,0,0
+1606148219458,1325,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,12089,2275,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Felectric-motors%2Fac-motors&searchConfig=0,1324,0,0
+1606148215130,2435,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,26943,4684,4,4,null,0,3968,0
+1606148217044,1281,/web/c/lighting/light-fittings-luminaires/shaver-lights/-18,200,OK,RAMP TEST 1-2,text,true,,25840,2410,4,4,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,1274,0,0
+1606148220378,1154,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1103,2274,4,4,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=lighting%2Flight-fittings-luminaires%2Fshaver-lights&searchConfig=0,1154,0,0
+1606148219557,1109,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,36460,4515,4,4,null,0,2265,37
+1606148219557,1069,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-4,text,true,,35526,2173,4,4,https://ie.rs-online.com/web/ca/basketsummary/,1056,0,37
+1606148222892,40,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-4,text,true,,934,2342,4,4,https://ie.rs-online.com/web/seam/resource/remoting/execute,39,0,0
+1606148219740,657,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,46983,2236,4,4,null,0,3177,0
+1606148222917,657,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-3,text,true,,46983,2236,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,650,0,0
+1606148221534,1468,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29778,2403,4,4,null,0,2179,0
+1606148223712,1468,/web/p/shaver-lights/8474875/-23,200,OK,RAMP TEST 1-2,text,true,,29778,2403,4,4,https://ie.rs-online.com/web/p/shaver-lights/8474875/,1466,0,0
+1606148220785,2634,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29467,2399,4,4,null,0,2007,0
+1606148222792,2634,/web/p/ac-motors/9180818/-23,200,OK,RAMP TEST 1-1,text,true,,29467,2399,4,4,https://ie.rs-online.com/web/p/ac-motors/9180818/,2630,0,0
+1606148222932,228,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,26308,2160,4,4,null,0,3294,41
+1606148226224,228,/web/-2,200,OK,RAMP TEST 1-4,text,true,,26308,2160,4,4,https://ie.rs-online.com/web/,221,0,41
+1606148223575,520,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,43203,2273,4,4,null,0,2676,0
+1606148226250,520,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-3,text,true,,43203,2273,4,4,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,513,0,0
+1606148225426,3170,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2250,4,4,null,0,699,0
+1606148226124,3170,/web/services/shoppingBasket/lineItems/918-0818/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2250,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/918-0818/1,3169,0,0
+1606148226453,431,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,46973,2236,4,4,null,0,3104,0
+1606148229556,431,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-4,text,true,,46973,2236,4,4,https://ie.rs-online.com/web/c/automation-control-gear/,426,0,0
+1606148225181,3182,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1045,2250,4,4,null,0,1864,0
+1606148227044,3182,/web/services/shoppingBasket/lineItems/847-4875/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1045,2250,4,4,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/847-4875/1,3181,0,0
+1606148232877,306,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,27606,575,5,5,null,0,2,38
+1606148232878,306,/web/-2,200,OK,RAMP TEST 1-5,text,true,,27606,575,5,5,https://ie.rs-online.com/web/,296,0,38
+1606148229988,544,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,45694,2265,5,5,null,0,2903,0
+1606148232891,544,/web/c/automation-control-gear/sensors/-14,200,OK,RAMP TEST 1-4,text,true,,45694,2265,5,5,https://ie.rs-online.com/web/c/automation-control-gear/sensors/,539,0,0
+1606148229294,6568,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41209,4713,5,5,null,0,163,95
+1606148229456,3528,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40188,2272,5,5,https://ie.rs-online.com/web/ca/basketsummary/,3518,0,95
+1606148232986,3040,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3040,0,0
+1606148226771,4566,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,43800,4550,5,5,null,0,4849,0
+1606148229583,1298,/web/c/automation-control-gear/process-control/counters/-18,200,OK,RAMP TEST 1-3,text,true,,30449,2311,4,4,https://ie.rs-online.com/web/c/automation-control-gear/process-control/counters/,1297,0,0
+1606148232918,3268,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,13351,2239,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fcounters&searchConfig=0,3268,0,0
+1606148230226,5503,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41313,4713,5,5,null,0,1019,45
+1606148230377,2464,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40292,2272,4,4,https://ie.rs-online.com/web/ca/basketsummary/,2451,0,45
+1606148233710,3039,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3039,0,0
+1606148233186,579,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,49188,1988,5,5,null,0,3025,0
+1606148236210,579,/web/c/switches/-8,200,OK,RAMP TEST 1-5,text,true,,49188,1988,5,5,https://ie.rs-online.com/web/c/switches/,574,0,0
+1606148236187,2352,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,30080,2363,5,5,null,0,64,0
+1606148236250,2352,/web/p/counters/8966986/-23,200,OK,RAMP TEST 1-3,text,true,,30080,2363,5,5,https://ie.rs-online.com/web/p/counters/8966986/,2350,0,0
+1606148236749,2181,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26041,2259,5,5,null,0,296,49
+1606148237044,2181,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26041,2259,5,5,https://ie.rs-online.com/web/,2174,0,49
+1606148236026,3167,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26048,2259,5,5,null,0,293,37
+1606148236318,3167,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26048,2259,5,5,https://ie.rs-online.com/web/,3160,0,37
+1606148233436,777,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,34204,4486,5,5,null,0,5647,0
+1606148236224,475,/web/c/automation-control-gear/sensors/flow-controllers/-18,200,OK,RAMP TEST 1-4,text,true,,30747,2311,5,5,https://ie.rs-online.com/web/c/automation-control-gear/sensors/flow-controllers/,473,0,0
+1606148239557,302,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-4,text,true,,3457,2175,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fsensors%2Fflow-controllers&searchConfig=0,302,0,0
+1606148236790,567,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,41610,2035,5,5,null,0,2753,0
+1606148239543,567,/web/c/switches/foot-switches-accessories/-14,200,OK,RAMP TEST 1-5,text,true,,41610,2035,5,5,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,559,0,0
+1606148239486,1361,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,46844,2335,5,5,null,0,167,0
+1606148239652,1361,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,46844,2335,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,1355,0,0
+1606148238603,2275,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,1045,2215,5,5,null,0,980,0
+1606148239583,2275,/web/services/shoppingBasket/lineItems/896-6986/1-28,403,Forbidden,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,1045,2215,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/896-6986/1,2274,0,0
+1606148239860,639,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,30654,2307,5,5,null,0,3038,0
+1606148242897,639,/web/p/flow-controllers/0467933/-23,200,OK,RAMP TEST 1-4,text,true,,30654,2307,5,5,https://ie.rs-online.com/web/p/flow-controllers/0467933/,637,0,0
+1606148239226,3539,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,54552,2352,5,5,null,0,1152,0
+1606148240377,3539,/web/c/pneumatics-hydraulics-power-transmission/-8,200,OK,RAMP TEST 1-2,text,true,,54552,2352,5,5,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/,3532,0,0
+1606148240111,411,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-5,,true,,29223,4042,5,5,null,0,5839,0
+1606148242876,266,/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/-18,200,OK,RAMP TEST 1-5,text,true,,27206,2089,5,5,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,264,0,0
+1606148246216,145,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-5,text,true,,2017,1953,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=switches%2Ffoot-switches-accessories%2Ffoot-switch-guard-covers&searchConfig=0,145,0,0
+1606148241014,3517,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,43073,2372,5,5,null,0,1978,0
+1606148242991,3517,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-1,text,true,,43073,2372,5,5,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,3512,0,0
+1606148243918,3449,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,43867,2395,5,5,null,0,1,0
+1606148243918,3449,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/-14,200,OK,RAMP TEST 1-2,text,true,,43867,2395,5,5,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/,3441,0,0
+1606148241858,7233,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,35631,4681,5,5,null,0,1058,42
+1606148242916,4075,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,34694,2256,5,5,https://ie.rs-online.com/web/ca/basketsummary/,4064,0,42
+1606148246991,3158,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,937,2425,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3158,0,0
+1606148246362,600,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,29536,2295,5,5,null,0,3194,0
+1606148249555,600,/web/p/foot-switch-guard-covers/0116726/-23,200,OK,RAMP TEST 1-5,text,true,,29536,2295,5,5,https://ie.rs-online.com/web/p/foot-switch-guard-covers/0116726/,599,0,0
+1606148246509,3390,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,32254,4700,5,5,null,0,2142,0
+1606148246509,1192,/web/c/automation-control-gear/process-control/heating-elements/-18,200,OK,RAMP TEST 1-1,text,true,,29216,2418,5,5,https://ie.rs-online.com/web/c/automation-control-gear/process-control/heating-elements/,1191,0,0
+1606148249843,2198,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,3038,2282,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fheating-elements&searchConfig=0,2198,0,0
+1606148247368,3643,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,29555,4742,5,5,null,0,1148,0
+1606148247368,2198,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/-18,200,OK,RAMP TEST 1-2,text,true,,28107,2439,5,5,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/,2195,0,0
+1606148250713,1445,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1448,2303,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=pneumatics-hydraulics-power-transmission%2Fhydraulic-tubing-hose%2Fhydraulic-hose&searchConfig=0,1445,0,0
+1606148250150,3226,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,25830,2243,5,5,null,0,175,51
+1606148250324,3226,/web/-2,200,OK,RAMP TEST 1-3,text,true,,25830,2243,5,5,https://ie.rs-online.com/web/,3219,0,51
+1606148252041,1340,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,28626,2406,5,5,null,0,1136,0
+1606148253176,1340,/web/p/heating-elements/2001229/-23,200,OK,RAMP TEST 1-1,text,true,,28626,2406,5,5,https://ie.rs-online.com/web/p/heating-elements/2001229/,1339,0,0
+1606148253551,2494,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,42066,2314,5,5,null,0,107,0
+1606148253657,2494,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-3,text,true,,42066,2314,5,5,https://ie.rs-online.com/web/c/batteries-chargers/,2489,0,0
+1606148252159,3541,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29257,2404,5,5,null,0,1875,0
+1606148254033,3541,/web/p/hydraulic-hose/1459782/-23,200,OK,RAMP TEST 1-2,text,true,,29257,2404,5,5,https://ie.rs-online.com/web/p/hydraulic-hose/1459782/,3538,0,0
+1606148254517,1203,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1045,2250,5,5,null,0,1993,0
+1606148256510,1203,/web/services/shoppingBasket/lineItems/200-1229/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1045,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/200-1229/1,1203,0,0
+1606148256152,1352,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,40983,2363,5,5,null,0,838,0
+1606148256989,1352,/web/c/batteries-chargers/battery-charger-accessories/-14,200,OK,RAMP TEST 1-3,text,true,,40983,2363,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,1349,0,0
+1606148257575,3368,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1045,2250,5,5,null,0,0,0
+1606148257575,3368,/web/services/shoppingBasket/lineItems/145-9782/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1045,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/145-9782/1,3368,0,0
+1606148257713,3530,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41203,4713,5,5,null,0,3035,59
+1606148259843,2428,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40182,2272,5,5,https://ie.rs-online.com/web/ca/basketsummary/,2416,0,59
+1606148263176,1102,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,1102,0,0
+1606148258342,3318,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,27220,4670,5,5,null,0,3113,0
+1606148260323,2201,/web/c/batteries-chargers/battery-charger-accessories/jump-leads/-18,200,OK,RAMP TEST 1-3,text,true,,26035,2403,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,2200,0,0
+1606148263656,1117,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,1185,2267,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-charger-accessories%2Fjump-leads&searchConfig=0,1117,0,0
+1606148260943,5663,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41324,4713,5,5,null,0,708,41
+1606148260944,2615,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40303,2272,5,5,https://ie.rs-online.com/web/ca/basketsummary/,2602,0,41
+1606148264266,3048,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3048,0,0
+1606148264279,2194,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26044,2259,5,5,null,0,2228,71
+1606148266507,2194,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26044,2259,5,5,https://ie.rs-online.com/web/,2186,0,71
+1606148267315,1194,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26045,2259,5,5,null,0,285,40
+1606148267600,1194,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26045,2259,5,5,https://ie.rs-online.com/web/,1183,0,40
+1606148264773,2278,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,28994,2384,5,5,null,0,2216,0
+1606148266989,2278,/web/p/jump-leads/6319215/-23,200,OK,RAMP TEST 1-3,text,true,,28994,2384,5,5,https://ie.rs-online.com/web/p/jump-leads/6319215/,2276,0,0
+1606148268794,1602,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,44208,2324,5,5,null,0,2138,0
+1606148270931,1602,/web/c/cables-wires/-8,200,OK,RAMP TEST 1-2,text,true,,44208,2324,5,5,https://ie.rs-online.com/web/c/cables-wires/,1594,0,0
+1606148269268,2279,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,1046,2234,5,5,null,0,1055,0
+1606148270322,2279,/web/services/shoppingBasket/lineItems/631-9215/1-28,403,Forbidden,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,1046,2234,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/631-9215/1,2279,0,0
+1606148268701,3363,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,42076,2330,5,5,null,0,1150,0
+1606148269851,3363,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-1,text,true,,42076,2330,5,5,https://ie.rs-online.com/web/c/batteries-chargers/,3356,0,0
+1606148272534,1480,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,43689,2371,5,5,null,0,1733,0
+1606148274266,1480,/web/c/cables-wires/computer-cable-assemblies/-14,200,OK,RAMP TEST 1-2,text,true,,43689,2371,5,5,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,1472,0,0
+1606148243537,30013,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-4,,false,,2988,0,5,5,null,0,2687,0
+1606148246223,30013,/web/services/shoppingBasket/lineItems/467-933/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-4,text,false,Test failed: text expected to contain /basketId/,2988,0,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/467-933/1,0,0,0
+1606148273214,3685,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,45207,2380,5,5,null,0,0,0
+1606148273214,3685,/web/c/batteries-chargers/battery-chargers-power-banks/-14,200,OK,RAMP TEST 1-1,text,true,,45207,2380,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,3682,0,0
+1606148272601,3555,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,35634,4681,5,5,null,0,2878,40
+1606148273654,1514,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,34697,2256,5,5,https://ie.rs-online.com/web/ca/basketsummary/,1503,0,40
+1606148276993,2041,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,937,2425,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,2040,0,0
+1606148276236,466,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,36455,4515,5,5,null,0,2939,38
+1606148276236,394,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-4,text,true,,35520,2173,5,5,https://ie.rs-online.com/web/ca/basketsummary/,381,0,38
+1606148279569,72,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-4,text,true,,935,2342,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,72,0,0
+1606148275747,4417,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,32056,4728,5,5,null,0,1889,0
+1606148277597,3295,/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/-18,200,OK,RAMP TEST 1-2,text,true,,30170,2432,5,5,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,3290,0,0
+1606148280931,1122,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1886,2296,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=cables-wires%2Fcomputer-cable-assemblies%2Fcomputer-power-cable-assemblies&searchConfig=0,1122,0,0
+1606148276900,4281,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,38529,4716,5,5,null,0,1116,0
+1606148276900,2216,/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/-18,200,OK,RAMP TEST 1-1,text,true,,31439,2426,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,2209,0,0
+1606148280232,2065,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,7090,2290,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-chargers-power-banks%2Fbattery-chargers&searchConfig=0,2064,0,0
+1606148250156,30001,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-5,,false,,2988,0,5,5,null,0,2718,0
+1606148252874,30001,/web/services/shoppingBasket/lineItems/116-726/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-5,text,false,Test failed: text expected to contain /basketId/,2988,0,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/116-726/1,0,0,0
+1606148279641,175,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,26310,2160,5,5,null,0,3262,40
+1606148282903,175,/web/-2,200,OK,RAMP TEST 1-4,text,true,,26310,2160,5,5,https://ie.rs-online.com/web/,167,0,40
+1606148279034,3244,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,25836,2243,5,5,null,0,1287,76
+1606148280320,3244,/web/-2,200,OK,RAMP TEST 1-3,text,true,,25836,2243,5,5,https://ie.rs-online.com/web/,3237,0,76
+1606148282054,1326,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29945,2421,5,5,null,0,2209,0
+1606148284263,1326,/web/p/computer-power-cable-assemblies/1735470/-23,200,OK,RAMP TEST 1-2,text,true,,29945,2421,5,5,https://ie.rs-online.com/web/p/computer-power-cable-assemblies/1735470/,1325,0,0
+1606148282875,448,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-5,,true,,36443,4495,5,5,null,0,2943,39
+1606148282875,391,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-5,text,true,,35508,2153,5,5,https://ie.rs-online.com/web/ca/basketsummary/,380,0,39
+1606148286209,57,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-5,text,true,,935,2342,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,57,0,0
+1606148283079,612,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,49240,2222,5,5,null,0,3158,0
+1606148286236,612,/web/c/lighting/-8,200,OK,RAMP TEST 1-4,text,true,,49240,2222,5,5,https://ie.rs-online.com/web/c/lighting/,598,0,0
+1606148282299,3366,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,28881,2406,5,5,null,0,1268,0
+1606148283566,3366,/web/p/battery-chargers/8517492/-23,200,OK,RAMP TEST 1-1,text,true,,28881,2406,5,5,https://ie.rs-online.com/web/p/battery-chargers/8517492/,3362,0,0
+1606148283566,3458,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,46846,2319,5,5,null,0,88,0
+1606148283653,3458,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-3,text,true,,46846,2319,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,3449,0,0
+1606148285589,1125,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1046,2250,5,5,null,0,2009,0
+1606148287597,1125,/web/services/shoppingBasket/lineItems/173-5470/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1046,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/173-5470/1,1125,0,0
+1606148286933,2133,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2250,5,5,null,0,1,0
+1606148286933,2133,/web/services/shoppingBasket/lineItems/851-7492/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/851-7492/1,2133,0,0
+1606148287112,2431,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,42093,2356,5,5,null,0,0,0
+1606148287112,2431,/web/c/automation-control-gear/electric-motors/-14,200,OK,RAMP TEST 1-3,text,true,,42093,2356,5,5,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/,2426,0,0
+1606148286267,152,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,26310,2160,5,5,null,0,3276,44
+1606148289542,152,/web/-2,200,OK,RAMP TEST 1-5,text,true,,26310,2160,5,5,https://ie.rs-online.com/web/,144,0,44
+1606148286849,923,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,48269,2269,5,5,null,0,2719,0
+1606148289568,923,/web/c/lighting/light-fittings-luminaires/-14,200,OK,RAMP TEST 1-4,text,true,,48269,2269,5,5,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/,913,0,0
+1606148289695,586,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,46994,2236,5,5,null,0,3180,0
+1606148292874,586,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-5,text,true,,46994,2236,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,576,0,0
+1606148289067,4564,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41207,4713,5,5,null,0,1200,58
+1606148290265,3521,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40186,2272,5,5,https://ie.rs-online.com/web/ca/basketsummary/,3513,0,58
+1606148293786,1043,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,1043,0,0
+1606148290492,421,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,27242,4487,5,5,null,0,5449,0
+1606148292901,294,/web/c/lighting/light-fittings-luminaires/shaver-lights/-18,200,OK,RAMP TEST 1-4,text,true,,25945,2312,5,5,https://ie.rs-online.com/web/c/lighting/light-fittings-luminaires/shaver-lights/,292,0,0
+1606148296235,127,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-4,text,true,,1297,2175,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=lighting%2Flight-fittings-luminaires%2Fshaver-lights&searchConfig=0,127,0,0
+1606148293460,539,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,43217,2273,5,5,null,0,2747,0
+1606148296208,539,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-5,text,true,,43217,2273,5,5,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,534,0,0
+1606148289543,5375,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,41617,4654,5,5,null,0,2027,0
+1606148290446,2209,/web/c/automation-control-gear/electric-motors/ac-motors/-18,200,OK,RAMP TEST 1-3,text,true,,29613,2395,5,5,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/ac-motors/,2207,0,0
+1606148293778,3166,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,12004,2259,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Felectric-motors%2Fac-motors&searchConfig=0,3166,0,0
+1606148288723,4539,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41325,4713,5,5,null,0,4131,45
+1606148290929,1423,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40304,2272,5,5,https://ie.rs-online.com/web/ca/basketsummary/,1413,0,45
+1606148294276,3116,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3116,0,0
+1606148294830,2198,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26042,2259,5,5,null,0,2291,47
+1606148297121,2198,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26042,2259,5,5,https://ie.rs-online.com/web/,2192,0,47
+1606148296362,688,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,29954,2304,5,5,null,0,3206,0
+1606148299568,688,/web/p/shaver-lights/8474875/-23,200,OK,RAMP TEST 1-4,text,true,,29954,2304,5,5,https://ie.rs-online.com/web/p/shaver-lights/8474875/,685,0,0
+1606148296945,3366,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,30134,2383,5,5,null,0,168,0
+1606148297112,3366,/web/p/ac-motors/1879899/-23,200,OK,RAMP TEST 1-3,text,true,,30134,2383,5,5,https://ie.rs-online.com/web/p/ac-motors/1879899/,3364,0,0
+1606148297394,3201,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26042,2259,5,5,null,0,203,38
+1606148297596,3201,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26042,2259,5,5,https://ie.rs-online.com/web/,3191,0,38
+1606148300479,2125,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,1046,2234,5,5,null,0,0,0
+1606148300479,2125,/web/services/shoppingBasket/lineItems/187-9899/1-28,403,Forbidden,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,1046,2234,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/187-9899/1,2124,0,0
+1606148299320,2701,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,46844,2335,5,5,null,0,1133,0
+1606148300453,2701,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-1,text,true,,46844,2335,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,2694,0,0
+1606148296748,729,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-5,,true,,43588,4486,5,5,null,0,5680,0
+1606148299541,447,/web/c/automation-control-gear/process-control/counters/-18,200,OK,RAMP TEST 1-5,text,true,,29960,2311,5,5,https://ie.rs-online.com/web/c/automation-control-gear/process-control/counters/,445,0,0
+1606148302874,282,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-5,text,true,,13628,2175,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fcounters&searchConfig=0,280,0,0
+1606148300798,3488,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,49285,2320,5,5,null,0,132,0
+1606148300929,3488,/web/c/switches/-8,200,OK,RAMP TEST 1-2,text,true,,49285,2320,5,5,https://ie.rs-online.com/web/c/switches/,3478,0,0
+1606148303155,1515,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,45539,2364,5,5,null,0,633,0
+1606148303787,1515,/web/c/automation-control-gear/sensors/-14,200,OK,RAMP TEST 1-1,text,true,,45539,2364,5,5,https://ie.rs-online.com/web/c/automation-control-gear/sensors/,1508,0,0
+1606148304419,1451,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,41708,2367,5,5,null,0,0,0
+1606148304419,1451,/web/c/switches/foot-switches-accessories/-14,200,OK,RAMP TEST 1-2,text,true,,41708,2367,5,5,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/,1443,0,0
+1606148303157,398,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,30888,2299,5,5,null,0,3050,0
+1606148306207,398,/web/p/counters/8086636/-23,200,OK,RAMP TEST 1-5,text,true,,30888,2299,5,5,https://ie.rs-online.com/web/p/counters/8086636/,394,0,0
+1606148302604,4469,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,35628,4681,5,5,null,0,2113,36
+1606148303811,2428,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,34691,2256,5,5,https://ie.rs-online.com/web/ca/basketsummary/,2420,0,36
+1606148307145,2041,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,937,2425,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,2041,0,0
+1606148305304,3348,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,33911,4684,5,5,null,0,2928,0
+1606148307120,2221,/web/c/automation-control-gear/sensors/flow-controllers/-18,200,OK,RAMP TEST 1-1,text,true,,30647,2410,5,5,https://ie.rs-online.com/web/c/automation-control-gear/sensors/flow-controllers/,2216,0,0
+1606148310453,1127,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,3264,2274,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fsensors%2Fflow-controllers&searchConfig=0,1126,0,0
+1606148305871,2289,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,28593,4706,5,5,null,0,4042,0
+1606148307752,1173,/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/-18,200,OK,RAMP TEST 1-2,text,true,,27110,2421,5,5,https://ie.rs-online.com/web/c/switches/foot-switches-accessories/foot-switch-guard-covers/,1171,0,0
+1606148311085,1116,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1483,2285,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=switches%2Ffoot-switches-accessories%2Ffoot-switch-guard-covers&searchConfig=0,1116,0,0
+1606148309186,2156,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,25833,2243,5,5,null,0,1294,40
+1606148310479,2156,/web/-2,200,OK,RAMP TEST 1-3,text,true,,25833,2243,5,5,https://ie.rs-online.com/web/,2149,0,40
+1606148312636,2463,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,46859,2319,5,5,null,0,1176,0
+1606148313810,2463,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-3,text,true,,46859,2319,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,2457,0,0
+1606148311580,3451,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,30376,2406,5,5,null,0,2214,0
+1606148313793,3451,/web/p/flow-controllers/5372855/-23,200,OK,RAMP TEST 1-1,text,true,,30376,2406,5,5,https://ie.rs-online.com/web/p/flow-controllers/5372855/,3446,0,0
+1606148312202,3436,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29820,2414,5,5,null,0,2216,0
+1606148314418,3436,/web/p/foot-switch-guard-covers/6097145/-23,200,OK,RAMP TEST 1-2,text,true,,29820,2414,5,5,https://ie.rs-online.com/web/p/foot-switch-guard-covers/6097145/,3433,0,0
+1606148317245,1134,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2250,5,5,null,0,1,0
+1606148317245,1134,/web/services/shoppingBasket/lineItems/537-2855/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/537-2855/1,1134,0,0
+1606148316279,2558,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,43081,2356,5,5,null,0,870,0
+1606148317149,2558,/web/c/automation-control-gear/process-control/-14,200,OK,RAMP TEST 1-3,text,true,,43081,2356,5,5,https://ie.rs-online.com/web/c/automation-control-gear/process-control/,2554,0,0
+1606148317854,2131,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1046,2250,5,5,null,0,2,0
+1606148317855,2131,/web/services/shoppingBasket/lineItems/609-7145/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1046,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/609-7145/1,2131,0,0
+1606148319708,4547,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,32141,4668,5,5,null,0,1825,0
+1606148320477,2277,/web/c/automation-control-gear/process-control/heating-elements/-18,200,OK,RAMP TEST 1-3,text,true,,29187,2402,5,5,https://ie.rs-online.com/web/c/automation-control-gear/process-control/heating-elements/,2273,0,0
+1606148323810,2270,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-3,text,true,,2954,2266,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=automation-control-gear%2Fprocess-control%2Fheating-elements&searchConfig=0,2270,0,0
+1606148319987,4548,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,41321,4713,5,5,null,0,2080,41
+1606148321181,2448,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40300,2272,5,5,https://ie.rs-online.com/web/ca/basketsummary/,2438,0,41
+1606148324514,2100,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-2,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,2100,0,0
+1606148318380,4543,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,41214,4713,5,5,null,0,4042,78
+1606148320586,1488,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40193,2272,5,5,https://ie.rs-online.com/web/ca/basketsummary/,1478,0,78
+1606148323910,3055,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-1,text,true,,1021,2441,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,3055,0,0
+1606148326965,1171,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,26047,2259,5,5,null,0,275,39
+1606148327239,1171,/web/-2,200,OK,RAMP TEST 1-1,text,true,,26047,2259,5,5,https://ie.rs-online.com/web/,1167,0,39
+1606148326080,1520,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,28493,2390,5,5,null,0,1076,0
+1606148327156,1520,/web/p/heating-elements/2001285/-23,200,OK,RAMP TEST 1-3,text,true,,28493,2390,5,5,https://ie.rs-online.com/web/p/heating-elements/2001285/,1503,0,0
+1606148326615,1184,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,26047,2259,5,5,null,0,1232,48
+1606148327847,1184,/web/-2,200,OK,RAMP TEST 1-2,text,true,,26047,2259,5,5,https://ie.rs-online.com/web/,1174,0,48
+1606148328676,1462,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-3,,false,,1046,2234,5,5,null,0,1801,0
+1606148330476,1462,/web/services/shoppingBasket/lineItems/200-1285/1-28,403,Forbidden,RAMP TEST 1-3,text,false,Test failed: text expected to contain /basketId/,1046,2234,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/200-1285/1,1462,0,0
+1606148300257,30000,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-4,,false,,2988,0,5,5,null,0,2645,0
+1606148302901,30000,/web/services/shoppingBasket/lineItems/847-4875/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-4,text,false,Test failed: text expected to contain /basketId/,2988,0,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/847-4875/1,0,0,0
+1606148328411,2500,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,42066,2330,5,5,null,0,2177,0
+1606148330587,2500,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-1,text,true,,42066,2330,5,5,https://ie.rs-online.com/web/c/batteries-chargers/,2491,0,0
+1606148329031,3667,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,54555,2352,5,5,null,0,2149,0
+1606148331179,3667,/web/c/pneumatics-hydraulics-power-transmission/-8,200,OK,RAMP TEST 1-2,text,true,,54555,2352,5,5,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/,3656,0,0
+1606148332902,425,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-4,,true,,36460,4515,5,5,null,0,2963,39
+1606148332902,369,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-4,text,true,,35526,2173,5,5,https://ie.rs-online.com/web/ca/basketsummary/,358,0,39
+1606148336234,56,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-4,text,true,,934,2342,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,56,0,0
+1606148333088,2453,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,40988,2379,5,5,null,0,817,0
+1606148333904,2453,/web/c/batteries-chargers/battery-charger-accessories/-14,200,OK,RAMP TEST 1-1,text,true,,40988,2379,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/,2448,0,0
+1606148334847,2522,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,43863,2395,5,5,null,0,1,0
+1606148334847,2522,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/-14,200,OK,RAMP TEST 1-2,text,true,,43863,2395,5,5,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/,2516,0,0
+1606148331939,3444,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-3,,true,,35623,4681,5,5,null,0,3812,39
+1606148333810,1391,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-3,text,true,,34686,2256,5,5,https://ie.rs-online.com/web/ca/basketsummary/,1381,0,39
+1606148337141,2053,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-3,text,true,,937,2425,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,2053,0,0
+1606148306606,30001,S01_T006_Add_To_Basket,Non HTTP response code: java.net.SocketTimeoutException,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-5,,false,,2988,0,5,5,null,0,2934,0
+1606148309540,30001,/web/services/shoppingBasket/lineItems/808-6636/1-28,Non HTTP response code: java.net.SocketTimeoutException,Non HTTP response message: Read timed out,RAMP TEST 1-5,text,false,Test failed: text expected to contain /basketId/,2988,0,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/808-6636/1,0,0,0
+1606148336291,162,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,26312,2160,5,5,null,0,3277,38
+1606148339568,162,/web/-2,200,OK,RAMP TEST 1-4,text,true,,26312,2160,5,5,https://ie.rs-online.com/web/,153,0,38
+1606148337370,3279,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-2,,true,,29630,4742,5,5,null,0,1949,0
+1606148338181,2195,/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/-18,200,OK,RAMP TEST 1-2,text,true,,28182,2439,5,5,https://ie.rs-online.com/web/c/pneumatics-hydraulics-power-transmission/hydraulic-tubing-hose/hydraulic-hose/,2195,0,0
+1606148341514,1084,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-2,text,true,,1448,2303,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=pneumatics-hydraulics-power-transmission%2Fhydraulic-tubing-hose%2Fhydraulic-hose&searchConfig=0,1084,0,0
+1606148339541,600,S01_T007_View_Basket,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-5,,true,,36463,4515,5,5,null,0,2861,33
+1606148339542,473,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-5,text,true,,35528,2173,5,5,https://ie.rs-online.com/web/ca/basketsummary/,464,0,33
+1606148342875,127,/web/seam/resource/remoting/execute-61,200,OK,RAMP TEST 1-5,text,true,,935,2342,5,5,https://ie.rs-online.com/web/seam/resource/remoting/execute,127,0,0
+1606148339731,380,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,42203,2231,5,5,null,0,3171,0
+1606148342901,380,/web/c/batteries-chargers/-8,200,OK,RAMP TEST 1-4,text,true,,42203,2231,5,5,https://ie.rs-online.com/web/c/batteries-chargers/,374,0,0
+1606148336358,4389,S01_T004_Choose_Category_3,200,"Number of samples in transaction : 2, number of failing samples : 0",RAMP TEST 1-1,,true,,27482,4702,5,5,null,0,2923,0
+1606148337237,1289,/web/c/batteries-chargers/battery-charger-accessories/jump-leads/-18,200,OK,RAMP TEST 1-1,text,true,,26213,2419,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-charger-accessories/jump-leads/,1284,0,0
+1606148340570,3100,/web/services/searchAndBrowse/stores/uk/refinementsByCategory-22,200,OK,RAMP TEST 1-1,text,true,,1269,2283,5,5,https://ie.rs-online.com/web/services/searchAndBrowse/stores/uk/refinementsByCategory?cataloguePath=batteries-chargers%2Fbattery-charger-accessories%2Fjump-leads&searchConfig=0,3100,0,0
+1606148339195,3350,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,25834,2243,5,5,null,0,1281,41
+1606148340475,3350,/web/-2,200,OK,RAMP TEST 1-3,text,true,,25834,2243,5,5,https://ie.rs-online.com/web/,3341,0,41
+1606148343670,2320,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-1,,true,,29175,2400,5,5,null,0,233,0
+1606148343903,2320,/web/p/jump-leads/6319215/-23,200,OK,RAMP TEST 1-1,text,true,,29175,2400,5,5,https://ie.rs-online.com/web/p/jump-leads/6319215/,2315,0,0
+1606148343826,2463,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,44175,2308,5,5,null,0,1,0
+1606148343826,2463,/web/c/cables-wires/-8,200,OK,RAMP TEST 1-3,text,true,,44175,2308,5,5,https://ie.rs-online.com/web/c/cables-wires/,2460,0,0
+1606148343002,366,S01_T001_Home_Page,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,26311,2160,5,5,null,0,3207,64
+1606148346209,366,/web/-2,200,OK,RAMP TEST 1-5,text,true,,26311,2160,5,5,https://ie.rs-online.com/web/,357,0,64
+1606148342598,2453,S01_T005_Choose_Product,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-2,,true,,29278,2404,5,5,null,0,2249,0
+1606148344846,2453,/web/p/hydraulic-hose/1459784/-23,200,OK,RAMP TEST 1-2,text,true,,29278,2404,5,5,https://ie.rs-online.com/web/p/hydraulic-hose/1459784/,2451,0,0
+1606148343282,1840,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-4,,true,,45315,2281,5,5,null,0,2953,0
+1606148346234,1840,/web/c/batteries-chargers/battery-chargers-power-banks/-14,200,OK,RAMP TEST 1-4,text,true,,45315,2281,5,5,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/,1834,0,0
+1606148347300,1175,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-2,,false,,1046,2250,5,5,null,0,881,0
+1606148348180,1175,/web/services/shoppingBasket/lineItems/145-9784/1-28,403,Forbidden,RAMP TEST 1-2,text,false,Test failed: text expected to contain /basketId/,1046,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/145-9784/1,1175,0,0
+1606148346224,2248,S01_T006_Add_To_Basket,403,"Number of samples in transaction : 1, number of failing samples : 1",RAMP TEST 1-1,,false,,1046,2250,5,5,null,0,1012,0
+1606148347236,2248,/web/services/shoppingBasket/lineItems/631-9215/1-28,403,Forbidden,RAMP TEST 1-1,text,false,Test failed: text expected to contain /basketId/,1046,2250,5,5,https://ie.rs-online.com/web/services/shoppingBasket/lineItems/631-9215/1,2248,0,0
+1606148346575,490,S01_T002_Choose_Category_1,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-5,,true,,46984,2236,5,5,null,0,2966,0
+1606148349540,490,/web/c/automation-control-gear/-8,200,OK,RAMP TEST 1-5,text,true,,46984,2236,5,5,https://ie.rs-online.com/web/c/automation-control-gear/,484,0,0
+1606148346290,3406,S01_T003_Choose_Category_2,200,"Number of samples in transaction : 1, number of failing samples : 0",RAMP TEST 1-3,,true,,43661,2355,5,5,null,0,871,0
+1606148347160,3406,/web/c/cables-wires/computer-cable-assemblies/-14,200,OK,RAMP TEST 1-3,text,true,,43661,2355,5,5,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/,3399,0,0
+1606148350567,1394,S01_T004_Choose_Category_3,200,,RAMP TEST 1-3,,true,,30129,2416,5,5,null,0,0,0
+1606148350567,1394,/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/-18,200,OK,RAMP TEST 1-3,text,true,,30129,2416,5,5,https://ie.rs-online.com/web/c/cables-wires/computer-cable-assemblies/computer-power-cable-assemblies/,1394,0,0
+1606148348075,4706,S01_T004_Choose_Category_3,200,,RAMP TEST 1-4,,true,,31974,2327,4,4,null,0,0,0
+1606148349567,3214,/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/-18,200,OK,RAMP TEST 1-4,text,true,,31974,2327,4,4,https://ie.rs-online.com/web/c/batteries-chargers/battery-chargers-power-banks/battery-chargers/,3212,0,0
+1606148349357,3637,S01_T007_View_Basket,200,,RAMP TEST 1-2,,true,,40303,2272,3,3,null,0,0,0
+1606148351512,1482,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-2,text,true,,40303,2272,3,3,https://ie.rs-online.com/web/ca/basketsummary/,1470,0,53
+1606148350031,3302,S01_T003_Choose_Category_2,200,,RAMP TEST 1-5,,true,,42244,2273,2,2,null,0,0,0
+1606148352874,459,/web/c/automation-control-gear/electric-motors/-14,200,OK,RAMP TEST 1-5,text,true,,42244,2273,2,2,https://ie.rs-online.com/web/c/automation-control-gear/electric-motors/,453,0,0
+1606148349485,4557,S01_T007_View_Basket,200,,RAMP TEST 1-1,,true,,40191,2272,1,1,null,0,0,0
+1606148350569,3473,/web/ca/basketsummary/-31,200,OK,RAMP TEST 1-1,text,true,,40191,2272,1,1,https://ie.rs-online.com/web/ca/basketsummary/,3447,0,44
